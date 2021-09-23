@@ -1,0 +1,11 @@
+Name: Bor Dekker
+Health:40
+Attunement:20
+Endurance:40
+Strenght:60
+Dexterity:30
+Intelligence:26
+Faith:24
+Luck:9000
+Main Skill:Merciless(Kills all and take's the person's soul/s if they have lost the will to live)
+Skills:20+
