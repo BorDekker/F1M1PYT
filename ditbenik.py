@@ -47,6 +47,8 @@ while True:
         print("Nee, schattige dieren. Ik heb een lieve hond genaamd Rover. Het juiste andwoord was C")
     if inputText == "C":
         print("JAAAAA, ik heb een lieve en schattige hond genaamd Rover. Hij is 2 jaar oud en het is een golden retriever")
+    print("De dag is voorbij en je gaat naar huis, ga je lopen naar het station of via de tram?")
+    print("A. Je gaat lopen")
 
 
 
